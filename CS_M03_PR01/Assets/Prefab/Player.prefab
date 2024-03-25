@@ -152,6 +152,8 @@ MonoBehaviour:
   rb: {fileID: 2617572985468476535}
   forwardForce: 7000
   sidewaysForce: 120
+  jumpVelocity: 5
+  distanceToGround: 0.1
 --- !u!114 &4994248188558257406
 MonoBehaviour:
   m_ObjectHideFlags: 0

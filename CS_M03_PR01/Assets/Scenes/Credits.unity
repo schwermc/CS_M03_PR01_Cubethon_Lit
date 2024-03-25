@@ -253,8 +253,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4285756275
-  m_fontColor: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
+    rgba: 4285754705
+  m_fontColor: {r: 0.31826273, g: 0.4263598, b: 0.4528302, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -389,8 +389,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4282992969
-  m_fontColor: {r: 0.28627452, g: 0.28627452, b: 0.28627452, a: 1}
+    rgba: 4282988599
+  m_fontColor: {r: 0.2171591, g: 0.22121608, b: 0.28773582, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -617,8 +617,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4287927444
-  m_fontColor: {r: 0.5801887, g: 0.5801887, b: 0.5801887, a: 1}
+    rgba: 4289505172
+  m_fontColor: {r: 0.5790762, g: 0.6563469, b: 0.6745283, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -913,7 +913,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8018868, g: 0.8018868, b: 0.8018868, a: 1}
+  m_Color: {r: 0.6862745, g: 0.7529412, b: 0.76862746, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1155,7 +1155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6462264, g: 0.6462264, b: 0.6462264, a: 1}
+  m_Color: {r: 0.5686275, g: 0.6313726, b: 0.6431373, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1246,8 +1246,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284177243
-  m_fontColor: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
+    rgba: 4285754705
+  m_fontColor: {r: 0.31764707, g: 0.427451, b: 0.45098042, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1475,8 +1475,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4282992969
-  m_fontColor: {r: 0.28773582, g: 0.28773582, b: 0.28773582, a: 1}
+    rgba: 4283054392
+  m_fontColor: {r: 0.21960784, g: 0.22352941, b: 0.2901961, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
